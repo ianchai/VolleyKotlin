@@ -39,6 +39,8 @@
         android:layout_marginBottom="8dp"
         android:clickable="true"
         android:freezesText="true"
+        android:scrollbarStyle="outsideInset"
+        android:scrollbars="horizontal|vertical"
         android:text="@string/initialNotice"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
