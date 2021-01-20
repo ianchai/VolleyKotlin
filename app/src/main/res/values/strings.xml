@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">VolleyBasicExample</string>
+    <string name="app_name">Volley Basic Example</string>
+    <string name="errorNotice">\"Something went wrong: \"</string>
+    <string name="uri">https://www.gutenberg.org/files/59281/59281-0.txt</string>
+    <string name="initialNotice">Retrieved data will appear here</string>
+    <string name="clear">Clear</string>
+    <string name="request">Request</string>
 </resources>
